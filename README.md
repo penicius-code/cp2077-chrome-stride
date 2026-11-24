@@ -3,6 +3,8 @@
 Sprint speed that comes from the leg cyberware you have installed, with a slow build-up, a stamina cost and a short burst on a double tap, for Cyberpunk 2077. Single-player only.
 Version 1.4.3 | Built for game version 2.31, installed on 2.5 | Status: 1.2.0 and 1.4.0 confirmed in game on 2.31; 1.4.3 in use in my game on 2.5 and working; no written test record
 
+**Download:** [latest release](https://github.com/penicius-code/cp2077-chrome-stride/releases/latest) (zip; install steps below)
+
 > This is an unofficial fan work and is not approved/endorsed by CD PROJEKT RED. No game files are included.
 
 ## The problem
@@ -52,7 +54,7 @@ Without Mod Settings the default values apply. Without Running Man there is no b
 ## Install
 
 1. Install the requirements above.
-2. Copy the contents of `package/` into the game folder, so that `r6\scripts\ChromeStride\ChromeStride.reds` and `r6\tweaks\zz_ChromeStride\ChromeStride.yaml` exist.
+2. Download the zip from the [latest release](https://github.com/penicius-code/cp2077-chrome-stride/releases/latest) (the same files as `package/` in this repository) and extract it into the game folder, so that `r6\scripts\ChromeStride\ChromeStride.reds` and `r6\tweaks\zz_ChromeStride\ChromeStride.yaml` exist.
 3. Start the game. With Mod Settings installed, the page "Chrome Stride" appears in its menu.
 
 ## Uninstall / roll back
