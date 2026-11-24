@@ -1,12 +1,12 @@
 # Changelog
 
-All versions were built on game version 2.31. "Not run in game" means it was not played; "no written test record" means it may have been played, but no result was written down.
+All versions were built on game version 2.31. "No written test record" means it may have been played, but no result was written down.
 
 ## 1.4.3 - 2026-10-29
 ### Added
 - Mod Settings "Burst top speed (km/h)", 40 to 94, changeable while playing.
 
-Not run in game.
+In use in the author's game and working; no written test record.
 
 ## 1.4.2 - 2026-10-29
 ### Changed
@@ -14,13 +14,13 @@ Not run in game.
 - Speed limits in the settings and the speed log are in km/h.
 - Build-up starts at 0.50 and takes 15 s, curve 2.
 
-Not run in game.
+No written test record.
 
 ## 1.4.1 - 2026-10-29
 ### Changed
 - Build-up over 10 s instead of 6.
 
-Not run in game.
+No written test record.
 
 ## 1.4.0 - 2026-10-29
 ### Changed

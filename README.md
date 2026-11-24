@@ -1,7 +1,7 @@
 # Chrome Stride
 
 Sprint speed that comes from the leg cyberware you have installed, with a slow build-up, a stamina cost and a short burst on a double tap, for Cyberpunk 2077. Single-player only.
-Version 1.4.3 | Built for game version 2.31, installed on 2.5 | Status: 1.2.0 and 1.4.0 confirmed in game on 2.31; 1.4.1 to 1.4.3 not run in game; installed on 2.5 with no written test record
+Version 1.4.3 | Built for game version 2.31, installed on 2.5 | Status: 1.2.0 and 1.4.0 confirmed in game on 2.31; 1.4.3 in use in my game on 2.5 and working; no written test record
 
 > This is an unofficial fan work and is not approved/endorsed by CD PROJEKT RED. No game files are included.
 
@@ -104,8 +104,8 @@ The tier values themselves are in `tools/build_yaml.py`. To change them, edit th
 | 1.2.0 | 2.31 | Confirmed in game. |
 | 1.3.0, 1.3.1 | 2.31 | No written test record. |
 | 1.4.0 | 2.31 | Confirmed in game, 2026-10-29, with the speed log on. The result was "works", with the request for a longer build-up that became 1.4.1. |
-| 1.4.1 to 1.4.3 | 2.31 | Not run in game. 1.4.3 compiles with 0 errors and 5 warnings, with and without Running Man. |
-| 1.4.3 | 2.5 | Installed in the game; no written test record. |
+| 1.4.1 to 1.4.3 | 2.31 | No written test record. 1.4.3 compiles with 0 errors and 5 warnings, with and without Running Man. |
+| 1.4.3 | 2.5 | In use in the author's game and working (author's statement, 2026-11-24). No written test record. |
 
 Before the first in-game run, the sprint logic was checked with a small model of the sprint state machine in Python (frame steps at 22 to 25 fps, all four possible orders of this mod's wraps and Running Man's), with 0 failures. That model is not part of this repository.
 
@@ -121,7 +121,7 @@ Before the first in-game run, the sprint logic was checked with a small model of
 ## Known issues
 
 - The 94 km/h ceiling is set in the tweak file when the game loads and cannot go higher through the settings.
-- Versions 1.4.1 to 1.4.3 have not been played, and there is no written test on game version 2.5.
+- Versions 1.4.1 to 1.4.3 have no written test record, and there is no written test on game version 2.5.
 
 ## Engineering notes
 
